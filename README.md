@@ -1,6 +1,6 @@
 # 🧼 Customer Personality Analysis - Data Cleaning Task
 
-This repository contains a cleaned version of the **Customer Personality Analysis** dataset, originally obtained from Kaggle. The goal of this task is to demonstrate essential data cleaning and preprocessing skills using Excel/Python (Pandas).
+This repository contains a cleaned version of the **Customer Personality Analysis** dataset, originally obtained from Kaggle. The goal of this task is to demonstrate essential data cleaning and preprocessing skills using Excel.
 
 ## 🧠 Objective
 
@@ -13,7 +13,6 @@ Clean and prepare a raw dataset that includes:
 
 ## 🛠 Tools Used
 - Excel (conceptually)
-- Python with Pandas (for execution)
 
 ---
 
